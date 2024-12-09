@@ -4,3 +4,5 @@ a json file that can speak and provide independent local weather data (hanoi, vi
 data will be updated in range of one hour to 7 days or more.
 
 *i am not guaranteed for whether the weather data used here is accurate or completely independent; i may look up on google for different reports, or use my home thermometer to measure, or to guess using my divinity mind.*
+
+you can check out json content [here](https://barnacl437.github.io/localforecast-api/localforecast.json), and it's free to use for your own.
