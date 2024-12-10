@@ -2,7 +2,7 @@
     {"friendlyname":"localforecastapi", "version":"0.0.1", "myownweather":
         {"location":
             {"vn_hanoi":
-           {"tempcelsius":22", 
+           {"tempcelsius":"22", 
             "weather_desc":"cloudy to fair",
             "feelin_like":"24", 
             "last_update":"2024-12-10 UTC7 18:32",
