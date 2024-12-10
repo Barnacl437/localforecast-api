@@ -2,11 +2,11 @@
     {"friendlyname":"localforecastapi", "version":"0.0.1", "myownweather":
         {"location":
             {"vn_hanoi":
-           {"tempcelsius":"22", 
+           {"tempcelsius":"19", 
             "weather_desc":"clear",
-            "feelin_like":"24", 
-            "last_update":"2024-12-10 UTC7 18:32",
-            "update_count":"6",
+            "feelin_like":"20", 
+            "last_update":"2024-12-10 UTC7 20:52",
+            "update_count":"7",
             "allowfahranheitconv":"yes"}
            }
         },
